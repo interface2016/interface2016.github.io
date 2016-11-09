@@ -1563,7 +1563,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #91ff95;
+  background: #4fff66;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2309,6 +2309,9 @@ a.search-result {
 embed {
   display: block;
   margin: 0px auto 25px auto;
+}
+.container.one-collumn.sidebar-position-left.page-home div[itemprop="articleBody"] {
+  text-align: center !important;
 }
 .custom-logo .site-meta-headline {
   text-align: center;
